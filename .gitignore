@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Build artifacts
+function.zip
+*.zip
+
+# Configuration files (except examples)
+config.txt
+config-*.txt
+config-*.txt.example
+!config.example.txt
+
+# Temporary files
+*.json
+!package.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
